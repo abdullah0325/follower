@@ -53,7 +53,7 @@ export default function HomePage() {
           
           <HeroHeading text1="Where every petal" text2="tells a story of resilience" />
           <p className="text-xs sm:text-sm md:text-base text-gray-600 dark:text-gray-400 mb-4 sm:mb-6 md:mb-8 max-w-md leading-relaxed">
-            Discover cake, gifts and followers services crafted to make every
+            Discover cakes, gifts and followers services crafted to make every
             moment special.
           </p>
 
